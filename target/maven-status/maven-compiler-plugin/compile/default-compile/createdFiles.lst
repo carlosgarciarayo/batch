@@ -1,0 +1,14 @@
+com/cgr/batch/domain/CreditCard.class
+com/cgr/batch/repository/CreditCardRepository.class
+com/cgr/batch/listener/CreditCardIItemWriterListener.class
+com/cgr/batch/config/JobBatchConfiguration.class
+com/cgr/batch/listener/CreditCardJobExecutionListener.class
+com/cgr/batch/job/CreditCardItemProcessor.class
+com/cgr/batch/listener/CreditCardIItemReaderListener.class
+repository/test.class
+com/cgr/batch/listener/CreditCardItemProcessListener.class
+com/cgr/batch/domain/CreditCardRisk.class
+com/cgr/batch/job/CreditCardItemReader.class
+com/cgr/batch/repository/CreditCardRiskRespository.class
+com/cgr/batch/AppApplication.class
+com/cgr/batch/job/CreditCardItemWriter.class
